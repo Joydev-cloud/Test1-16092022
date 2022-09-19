@@ -1,0 +1,29 @@
+#!/bin/bash
+sudo apt update -y
+sudo apt install apache2 -y///////////////////sudo yum install -y httpd
+sudo su
+echo "<html><h1>This is for Our Online Store<h1><html>" > /var/www/html/index.html
+
+
+sudo apt-get install mysql-client -y
+------------------------------
+#!/bin/bash
+sudo apt update -y
+sudo apt install apache2 -y
+sudo su
+echo "<html><h1>This is for Aunwesha VPC Private Subnet2<h1><html>" > /var/www/html/index.html
+------------------------------------
+
+
+Swan Energy Ltd.---------293----------19042022
+Tejas Networks Ltd.---471----19042022
+
+https://www.youtube.com/watch?v=L7kqlkvllv0---------------s3-r53
+
+https://www.youtube.com/watch?v=D6qB7MEFOe0---------static website hosting-s3-acm-r53--ssl
+
+
+
+
+
+https://github.com/myvirtualbytes/AWS/blob/master/S3-static-website-hosting-bucket-policy.JSON
