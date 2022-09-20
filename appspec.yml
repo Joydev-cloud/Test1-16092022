@@ -2,5 +2,5 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /var/www/html/test2
+    destination: /var/www/html/test3
     overwrite: true
